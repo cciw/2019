@@ -20,7 +20,7 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'https://cciw.github.io'
+url: 'https://cciw.github.io/2019'
 baseurl: ''
 title: 'Workshop on Converged Computing Infrastructure'
 description: ''
