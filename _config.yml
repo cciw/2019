@@ -20,7 +20,7 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'https://cciw.github.io'
+url: 'https://cciw.github.io/2019'
 baseurl: ''
 title: 'Workshop on Converged Computing Infrastructure'
 description: ''
@@ -30,9 +30,12 @@ logo: "/images/logo.png"
 
 # Header nav
 navigation_header:
-  Home: /
-  Organization: /about/
-  Submission: /submission/
+- title: Home
+  url: /
+- title: Organization
+  url: /about/
+- title: Submission
+  url: /submission/
 
 # Footer nav
 navigation_footer:
