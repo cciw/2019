@@ -25,17 +25,17 @@ baseurl: ''
 title: 'Workshop on Converged Computing Infrastructure'
 description: ''
 permalink: pretty
-logo: "/images/logo.png"
+logo: "/2019/images/logo.png"
 
 
 # Header nav
 navigation_header:
 - title: Home
-  url: /
+  url: /2019/
 - title: Organization
-  url: /about/
+  url: /2019/about/
 - title: Submission
-  url: /submission/
+  url: /2019/submission/
 
 # Footer nav
 navigation_footer:
